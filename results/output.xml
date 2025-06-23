@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1 (Python 3.11.3 on win32)" generated="2024-10-12T02:14:24.149804" rpa="false" schemaversion="5">
+<suite id="s1" name="Add View Student Test" source="E:\Django Project\PRT_580_Group_Projec_Files\LIBRARY MANAGEMENT SYSTEM\TechVidvanLibrary\add_view_student_test.robot">
+<test id="s1-t1" name="Open Website" line="10">
+<kw name="Open Browser ${SERVER}/stafflogin">
+<msg time="2024-10-12T02:14:24.315252" level="FAIL">No keyword with name 'Open Browser ${SERVER}/stafflogin' found. Did you try using keyword 'SeleniumLibrary.Open Browser' and forgot to use enough whitespace between keyword and arguments?</msg>
+<arg>${BROWSER}</arg>
+<status status="FAIL" start="2024-10-12T02:14:24.315252" elapsed="0.000000">No keyword with name 'Open Browser ${SERVER}/stafflogin' found. Did you try using keyword 'SeleniumLibrary.Open Browser' and forgot to use enough whitespace between keyword and arguments?</status>
+</kw>
+<status status="FAIL" start="2024-10-12T02:14:24.314254" elapsed="0.001994">No keyword with name 'Open Browser ${SERVER}/stafflogin' found. Did you try using keyword 'SeleniumLibrary.Open Browser' and forgot to use enough whitespace between keyword and arguments?</status>
+</test>
+<doc>Login Functionality</doc>
+<status status="FAIL" start="2024-10-12T02:14:24.150802" elapsed="0.165446"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Add View Student Test">Add View Student Test</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
